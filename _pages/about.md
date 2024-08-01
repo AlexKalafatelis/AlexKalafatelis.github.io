@@ -30,7 +30,3 @@ Currently, I am also pursuing my Ph.D. at the Department of Port Management and 
 My scientific interests are as diverse as my background, spanning Machine Learning, PdM, Edge Computing, Maritime Security & Telecommunications, and Computational Biology. I'm also actively engaged in research projects and have proudly contributed to numerous H2020 & HE initiatives.
 
 If you share a passion for technology, innovation, and making a positive impact on the world, I'd love to connect and collaborate on exciting projects. Let's journey together into the fascinating world of AI, where the possibilities are limited only by our imagination!
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
