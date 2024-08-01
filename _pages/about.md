@@ -2,9 +2,9 @@
 layout: About Me
 title: About Me
 permalink: /
-#subtitle: BEng, BSc(Hons), MSc, PhD(c), SIMarEST, GSMIEEE 
+subtitle: BEng, BSc(Hons), MSc, PhD(c), SIMarEST, GSMIEEE 
 #subtitle: <a href='https://www.pms.uoa.gr/'>Dept. of Ports Management and Shipping, National and Kapodistrian University of Athens</a>. Researcher, (Contacts. Moto. Etc.)
-subtitle: <a href='https://fourdotinfinity.com/'>Four Dot Infinity</a>. Senior AI Research Scientist
+#subtitle: <a href='https://fourdotinfinity.com/'>Four Dot Infinity</a>. Senior AI Research Scientist
 
 
 profile:
