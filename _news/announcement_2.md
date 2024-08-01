@@ -14,3 +14,5 @@ Our study addresses a critical gap in maritime maintenance by exploring the use 
 Our findings highlight the potential for predictive maintenance (PdM) systems to enhance vessel reliability and reduce operational costs, making a significant impact on the industry.
 
 Thank you to everyone who supported and contributed to this research. We look forward to sharing our insights and engaging with peers in Athens!
+
+![EMCIS 2024](assets/img/EMCIS.png)
