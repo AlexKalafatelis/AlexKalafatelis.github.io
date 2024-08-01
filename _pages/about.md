@@ -2,9 +2,9 @@
 layout: About Me
 title: About Me
 permalink: /
-subtitle: BEng, BSc(Hons), MSc, PhD(c), SIMarEST, GSMIEEE 
+#subtitle: BEng, BSc(Hons), MSc, PhD(c), SIMarEST, GSMIEEE 
 #subtitle: <a href='https://www.pms.uoa.gr/'>Dept. of Ports Management and Shipping, National and Kapodistrian University of Athens</a>. Researcher, (Contacts. Moto. Etc.)
-#subtitle: <a href='https://fourdotinfinity.com/'>Four Dot Infinity</a>. Senior AI Research Scientist
+subtitle: <a href='https://fourdotinfinity.com/'>Four Dot Infinity</a>. Senior AI Research Scientist
 
 
 profile:
@@ -23,7 +23,7 @@ social: true # includes social icons at the bottom of the page
 
 Hey there, I'm Alexandros Kalafatelis, a multi-passionate individual with a passion for exploring the realms of technology and innovation.
 
-As a Senior Research Scientist at Four Dot Infinity, and a dedicated Researcher at the National and Kapodistrian University of Athens (NKUA), I am constantly immersed in exciting projects that blend cutting-edge technology and scientific research.
+As a Senior Research Scientist at [Four Dot Infinity](https://fourdotinfinity.com/), and a Researcher at the [Dept. of Ports Management and Shipping of the National and Kapodistrian University of Athens (NKUA)](https://www.pms.uoa.gr/), I am constantly immersed in exciting projects that blend cutting-edge technology and scientific research.
 
 Currently, I am also pursuing my Ph.D. at the Department of Port Management and Shipping of NKUA, where I delve into the exciting domain of Predictive Maintenance for Vessel Machinery. It's an area that merges my passion for Machine Learning and Maritime Security, offering the potential to revolutionize the maritime industry.
 
