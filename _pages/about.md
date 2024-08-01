@@ -2,9 +2,9 @@
 layout: about
 title: about
 permalink: /
-#subtitle: BEng, BSc(Hons), MSc, PhD(c), SIMarEST, GSMIEEE 
+subtitle: BEng, BSc(Hons), MSc, PhD(c), SIMarEST, GSMIEEE 
 #subtitle: <a href='https://www.pms.uoa.gr/'>Dept. of Ports Management and Shipping, National and Kapodistrian University of Athens</a>. Researcher, (Contacts. Moto. Etc.)
-subtitle: <a href='https://fourdotinfinity.com/'>Four Dot Infinity</a>. Senior AI Research Scientist
+#subtitle: <a href='https://fourdotinfinity.com/'>Four Dot Infinity</a>. Senior AI Research Scientist
 
 
 profile:
@@ -31,8 +31,7 @@ My scientific interests are as diverse as my background, spanning Machine Learni
 
 If you share a passion for technology, innovation, and making a positive impact on the world, I'd love to connect and collaborate on exciting projects. Let's journey together into the fascinating world of AI, where the possibilities are limited only by our imagination!
 
-
- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
