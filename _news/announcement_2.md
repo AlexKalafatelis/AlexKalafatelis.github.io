@@ -14,4 +14,4 @@ Our findings highlight the potential for predictive maintenance (PdM) systems to
 
 Thank you to everyone who supported and contributed to this research. We look forward to sharing our insights and engaging with peers in Athens!
 
-![EMCIS 2024](EMCIS.png)
+<img src="{/assets/img/EMCIS.png" alt="EMCIS 2024">
