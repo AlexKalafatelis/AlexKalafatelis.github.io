@@ -3,7 +3,8 @@ layout: about
 title: about
 permalink: /
 subtitle: BEng, BSc(Hons), MSc, PhD(c), SIMarEST, GSMIEEE 
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.pms.uoa.gr/'>Dept. of Ports Management and Shipping, National and Kapodistrian University of Athens</a>. Researcher, (Contacts. Moto. Etc.)
+subtitle: <a href='https://fourdotinfinity.com/'>Four Dot Infinity</a>. Senior AI Research Scientist
 
 
 profile:
@@ -19,8 +20,6 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-
-Alexandros Kalafatelis BEng, BSc(Hons), MSc, PhD(c), MIEEE
 
 Hey there, I'm Alexandros Kalafatelis, a multi-passionate individual with a passion for exploring the realms of technology and innovation.
 

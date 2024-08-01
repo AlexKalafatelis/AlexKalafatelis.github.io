@@ -11,6 +11,10 @@ nav_order: 2
 
 <!-- Bibsearch Feature -->
 
+{% include bib_search.liquid %}
+
+<div class="publications">
+
 @article{giannopoulos2024federated,
   title={Federated learning for maritime environments: use cases, experimental results, and open issues},
   author={Giannopoulos, Anastasios and Gkonis, Panagiotis and Bithas, Petros and Nomikos, Nikolaos and Kalafatelis, Alexandros and Trakadas, Panagiotis},
@@ -21,10 +25,6 @@ nav_order: 2
   year={2024},
   publisher={Multidisciplinary Digital Publishing Institute}
 }
-
-{% include bib_search.liquid %}
-
-<div class="publications">
 
 {% bibliography %}
 
