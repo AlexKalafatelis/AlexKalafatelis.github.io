@@ -1,6 +1,6 @@
 ---
-layout: About Me
-title: About Me
+layout: about
+title: about
 permalink: /
 #subtitle: BEng, BSc(Hons), MSc, PhD(c), SIMarEST, GSMIEEE 
 #subtitle: <a href='https://www.pms.uoa.gr/'>Dept. of Ports Management and Shipping, National and Kapodistrian University of Athens</a>. Researcher, (Contacts. Moto. Etc.)
